@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="0e130221db601300d538d740cf9619be" sys_domain="global" table="x_25953_rad_test_table" version="3" view="end_user">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 20:20:08</sys_created_on>
+            <sys_id>e713ceeddb201300d538d740cf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_25953_rad_test_table" sys_domain="global" view="4e130221db601300d538d740cf9619ba">0e130221db601300d538d740cf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 20:20:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_value</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 20:20:08</sys_created_on>
+            <sys_id>6b13ceeddb201300d538d740cf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_25953_rad_test_table" sys_domain="global" view="4e130221db601300d538d740cf9619ba">0e130221db601300d538d740cf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 20:20:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_25953_rad_test_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 20:20:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e130221db601300d538d740cf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_25953_rad_test_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rad Test" source="x_25953_rad_test">1cca65e1db201300d538d740cf9619f0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rad Test">1cca65e1db201300d538d740cf9619f0</sys_scope>
+            <sys_update_name>sys_ui_section_0e130221db601300d538d740cf9619be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 20:20:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="end user" name="end_user">4e130221db601300d538d740cf9619ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
